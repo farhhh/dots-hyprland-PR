@@ -18,6 +18,7 @@
 </div>
 
 > [!WARNING]  
+> Please write your pull requests! I'll review them all, and if I like them and they work well, I'll definitely add them!
 > Пока что это просто моя небольшая попытка разобраться в форках на гите. Но я планирую, чтобы это был форк, который берет лучшие идеи из 
 > пул реквестов основного репозитория. Если чет получится, надо не забыть конечно обновить на англ это...
 
