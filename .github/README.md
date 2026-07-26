@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>【 end_4's Hyprland dotfiles 】</h1>
+    <h1>【 end_4's Hyprland dotfiles PR】</h1>
     <h3></h3>
 </div>
 
@@ -18,8 +18,8 @@
 </div>
 
 > [!WARNING]  
-> Hyprland 0.55 update:
-> If your distro has not shipped Hyprland 0.55 and/or you're not ready for it, you should switch to the Pre-Hyprland Luaification release (or not update yet, if you're going to do that). See the wiki for more info: [Install](https://ii.clsty.link/en/ii-qs/01setup/#automated-installation) | [Update](https://ii.clsty.link/en/ii-qs/01setup/#updating)
+> Пока что это просто моя небольшая попытка разобраться в форках на гите. Но я планирую, чтобы это был форк, который берет лучшие идеи из 
+> пул реквестов основного репозитория. Если чет получится, надо не забыть конечно обновить на англ это...
 
 <details> 
   <summary>What this is/isn't</summary>
